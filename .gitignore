@@ -1,0 +1,14 @@
+frontend/node_modules/
+
+backend/build/
+frontend/build/
+
+postgres-data/
+
+docker-compose.override.yml
+*.log
+
+.DS_Store
+
+.env
+
